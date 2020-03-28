@@ -55,9 +55,29 @@ let obj3 = {...obj1, ...obj2};
 
 #### Date Function (Native JavaScript)
 
-##### Get day of year
+##### i. Get day of year
 ```
 Math.floor(
   (new Date() - new Date(new Date().getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24
-);
+  );
+```
+
+##### ii. Get UNIX time
+```
+Date.now()
+```
+
+##### iii. Some Math object that use often
+```
+Math.round 
+2.1 => 2.0
+2.5 => 3.0
+
+Math.ceil
+2.1 => 3.0
+2.9 => 3.0
+
+Math.floor
+2.1 => 2.0
+2.9 => 2.0
 ```

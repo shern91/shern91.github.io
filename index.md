@@ -1,39 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shern91/shern91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## My note
+* [git-common](git.md) - My often used git command in work. (In-Progress)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [laravel-common](laravel.md) - My often used Laravel command in work.  (In-Progress)
 
-### Markdown
+* [sqlserver-common](sqlserver.md) - My often used SQL Server command in work.  (In-Progress)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [mysql-common](mysql.md) - My often used MySQL query.  (In-Progress)
 
-```markdown
-Syntax highlighted code block
+* [netcore-common](netcore.md) - Dot Net Core  (In-Progress)
 
-# Header 1
-## Header 2
-### Header 3
+* [java-script](js.md) - JavaScript
 
-- Bulleted
-- List
+* [regex](regex.md) - Regular Expression  (In-Progress)
 
-1. Numbered
-2. List
+* [some-note](note.md) - Note  (In-Progress)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shern91/shern91.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-* [java-script](js.md) - My JS Learning Tutorial
+* [others-cmd-command](others.md) - Other  (In-Progress)
